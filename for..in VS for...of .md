@@ -42,3 +42,11 @@ for (var value of iterable) {
 
 > **오직 Array 객체에서만 사용가능** , 배열의 요소들을 반복하여 작업을 수행할 수 있습니다.
 >
+```jsx
+var items = ['item1', 'item2', 'item3'];
+
+items.forEach(function(item) {
+    console.log(item);
+});
+// 출력 결과: item, item2, item3
+```
