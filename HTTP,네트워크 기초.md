@@ -163,7 +163,7 @@
 > AJAX는 Asynchronous JavaScript And XMLHttpRequest의 약자로, JavaScript, DOM, Fetch, XMLHttpRequest, HTML 등의 다양한 기술을 사용하는 **웹 개발 기법**입니다. 가장 큰 특징은, **웹페이지에 필요한 부분에 필요한 데이터만 비동기적으로 받아**와서 화면에 나타낼 수 있습니다.
 > 
 
-### a. AJAX**의 두 가지 핵심 기술 : JavaScript와 DOM, 그리고 Fetch
+### a. AJAX의 두 가지 핵심 기술 : JavaScript와 DOM, 그리고 Fetch
 
 전통적인 웹 어플리케이션은 form 태그를 이용해서 서버에 데이터를 전송했고 새로운 웹페이지를 제공했습니다. 하지만 **Fetch를 사용하면 비동기적으로 페이지를 이동하지 않아도 서버로부터 데이터를 받아** 올 수 있습니다.
 
