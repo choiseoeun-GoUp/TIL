@@ -1,6 +1,6 @@
 # CH1. **REST API**💁🏻
 
-## **1. REST API의 탄생**
+## 1. REST API의 탄생
 
 REST는 Representational State Transfer라는 용어의 약자로서 2000년도에 로이 필딩 (Roy Fielding)의 박사학위 논문에서 웹(http)의 장점을 최대한 활용할 수 있는 아키텍처로써 최초로 소개되었습니다.
 
@@ -8,12 +8,12 @@ REST API는 **웹에서 사용되는 데이터나 자원(Resource)을 HTTP URI�
 
 HTTP프로토콜을 기반으로 요청과 응답에 따라 리소스를 주고받기 위해서는 알아보기 쉽고 잘작성된 메뉴판 역할인 API가 필요합니다. 
 
-## 2**. 모두가 잘알아볼 수 있는 REST API**
+## 2. 모두가 잘알아볼 수 있는 REST API
 
 REST API를 잘 적용하기 위한 4단계모델인 리차드슨의 REST성숙도 모델이있습니다. 
 
 
-## 3**. 그래서 REST API가 뭐야…?**
+## 3. 그래서 REST API가 뭐야…?
 
 HTTP URI(Uniform Resource Identifier)를 통해 자원(Resource)을 명시하고, HTTP Method (POST, GET, PUT, DELETE)를 통해 해당 자원에 대한 CRUD Operation을 적용하는 것을 의미한다고 합니다. 
 
@@ -21,7 +21,7 @@ HTTP URI(Uniform Resource Identifier)를 통해 자원(Resource)을 명시하고
 
 월드 와일드 웹(www)과 같은 분산 하이퍼미디어 시스템을 위한 소프트웨어 개발 아키텍쳐의 한 형식이며, REST는 기본적으로 웹의 기존기술과 HTTP 프로토콜을 그대로 활용하기 때문에 **웹의 장점을 최대한 활용할 수 있는 아키텍쳐** 스타일 입니다. (아키텍쳐는 컴퓨터 시스템의 하드웨어 구조를 말합니다.)
 
-## 4**. REST 구성요소**
+## 4. REST 구성요소
 
 1. 자원(Resource) : URI
 2. 행위(Verb) : HTTP Method
