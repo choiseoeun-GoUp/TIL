@@ -1,6 +1,6 @@
 # CH1. **REST API**💁🏻
 
-## 1. REST API의 탄생
+### 1. REST API의 탄생
 
 REST는 Representational State Transfer라는 용어의 약자로서 2000년도에 로이 필딩 (Roy Fielding)의 박사학위 논문에서 웹(http)의 장점을 최대한 활용할 수 있는 아키텍처로써 최초로 소개되었습니다.
 
