@@ -33,5 +33,6 @@ side effect란 함수의 입력 외에도 함수의 결과에 영향을 미치�
 - React Context
 - Redux
 - MobX
+- React query
 
 상태관리 라이브러리는 전역 상태를 위한 저장소를 제공합니다. 또한 props drilling 문제를 해결합니다. props drilling이란 중간 컴포넌트에서 필요하지 않는 props도 넘겨주어야하는 문제입니다. 전역 상태 저장소가 있어서 어디서든 접근이 가능하다면 이러한 문제는 해결됩니다.
